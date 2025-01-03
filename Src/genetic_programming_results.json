@@ -1,0 +1,812 @@
+[
+    {
+        "task_filename": "1fad071e.json",
+        "best_program": "input_grid",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "Diagonal mirror(Horizontal mirror(rotate_270(vertical mirror(rotate_270(flip_vertical(upscale(input_grid)))))))",
+                    "Diagonal mirror(Horizontal mirror(Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(rotate_180(input_grid)))))))",
+                    "transform blue to red(transform blue to red(rotate_180(input_grid)))",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(rotate_180(input_grid)))))",
+                    "Horizontal mirror(identity(transform blue to red(rotate_180(input_grid))))",
+                    "identity(Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(rotate_180(input_grid))))))",
+                    "vertical mirror(rotate_90(transform blue to red(rotate_180(input_grid))))",
+                    "identity(Horizontal mirror(identity(Diagonal mirror(upscale(rotate_270(input_grid))))))",
+                    "Horizontal mirror(vertical mirror(flip_vertical(input_grid)))",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "Horizontal mirror(identity(transform blue to red(rotate_180(input_grid))))",
+                    "input_grid",
+                    "Horizontal mirror(identity(transform blue to red(rotate_180(input_grid))))",
+                    "input_grid",
+                    "input_grid",
+                    "Horizontal mirror(vertical mirror(flip_vertical(input_grid)))",
+                    "input_grid",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(rotate_180(input_grid)))))",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "input_grid",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(input_grid))))",
+                    "rotate_180(input_grid)",
+                    "input_grid",
+                    "Horizontal mirror(input_grid)",
+                    "identity(transform blue to red(rotate_180(input_grid)))",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(rotate_180(input_grid)))))",
+                    "input_grid",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "transform blue to red(input_grid)",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(input_grid)))",
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(input_grid))))",
+                    "flip_vertical(rotate_180(flip_vertical(input_grid)))",
+                    "transform blue to red(rotate_180(input_grid))",
+                    "identity(input_grid)",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "Diagonal mirror(Horizontal mirror(transform blue to red(transform blue to red(input_grid))))",
+                    "transform blue to red(rotate_180(input_grid))",
+                    "transform blue to red(input_grid)",
+                    "flip_horizontal(upscale(flip_vertical(input_grid)))",
+                    "transform blue to red(transform blue to red(input_grid))",
+                    "Diagonal mirror(Horizontal mirror(input_grid))",
+                    "transform blue to red(rotate_180(input_grid))",
+                    "flip_vertical(vertical mirror(flip_vertical(identity(upscale(input_grid)))))",
+                    "transform blue to red(rotate_180(transform blue to red(Horizontal mirror(input_grid))))",
+                    "input_grid"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "3c9b0459.json",
+        "best_program": "rotate_270(transform blue to red(rotate_270(flip_horizontal(Diagonal mirror(Diagonal mirror(rotate_180(input_grid)))))))",
+        "all_generations": [
+            {
+                "best_fitness": 3,
+                "population": [
+                    "transform blue to red(vertical mirror(transform blue to red(input_grid)))",
+                    "transform blue to red(vertical mirror(vertical mirror(vertical mirror(transform blue to red(input_grid)))))",
+                    "transform blue to red(vertical mirror(vertical mirror(Horizontal mirror(input_grid))))",
+                    "identity(flip_horizontal(upscale(rotate_270(input_grid))))",
+                    "upscale(transform blue to red(vertical mirror(vertical mirror(transform blue to red(input_grid)))))",
+                    "upscale(upscale(rotate_270(input_grid)))",
+                    "upscale(identity(flip_horizontal(input_grid)))",
+                    "input_grid",
+                    "upscale(rotate_270(transform blue to red(rotate_270(input_grid))))",
+                    "rotate_270(transform blue to red(rotate_270(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "input_grid",
+                    "rotate_270(transform blue to red(rotate_270(input_grid)))",
+                    "transform blue to red(vertical mirror(transform blue to red(rotate_270(input_grid))))",
+                    "rotate_270(transform blue to red(input_grid))",
+                    "input_grid",
+                    "rotate_270(transform blue to red(rotate_270(input_grid)))",
+                    "rotate_270(input_grid)",
+                    "rotate_270(transform blue to red(rotate_270(transform blue to red(rotate_270(input_grid)))))",
+                    "identity(flip_horizontal(upscale(rotate_270(rotate_270(transform blue to red(rotate_270(input_grid)))))))",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "transform blue to red(rotate_270(vertical mirror(vertical mirror(identity(upscale(input_grid))))))",
+                    "identity(flip_horizontal(upscale(rotate_270(rotate_270(transform blue to red(transform blue to red(rotate_270(input_grid))))))))",
+                    "rotate_270(rotate_270(input_grid))",
+                    "rotate_270(transform blue to red(rotate_270(flip_horizontal(Diagonal mirror(Diagonal mirror(rotate_180(input_grid)))))))",
+                    "rotate_270(transform blue to red(rotate_270(transform blue to red(flip_horizontal(input_grid)))))",
+                    "rotate_270(transform blue to red(rotate_270(input_grid)))",
+                    "rotate_270(input_grid)",
+                    "identity(flip_horizontal(upscale(rotate_270(rotate_270(transform blue to red(rotate_270(transform blue to red(input_grid))))))))",
+                    "transform blue to red(vertical mirror(transform blue to red(rotate_270(input_grid))))",
+                    "rotate_270(transform blue to red(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 4,
+                "population": [
+                    "rotate_270(transform blue to red(rotate_270(flip_horizontal(Diagonal mirror(Diagonal mirror(rotate_180(input_grid)))))))",
+                    "transform blue to red(rotate_270(flip_horizontal(Diagonal mirror(Diagonal mirror(rotate_180(input_grid))))))",
+                    "rotate_270(rotate_270(rotate_270(input_grid)))",
+                    "rotate_270(transform blue to red(rotate_270(transform blue to red(rotate_270(input_grid)))))",
+                    "rotate_270(flip_horizontal(input_grid))",
+                    "rotate_270(transform blue to red(rotate_270(transform blue to red(rotate_270(input_grid)))))",
+                    "rotate_270(flip_horizontal(input_grid))",
+                    "rotate_270(input_grid)",
+                    "rotate_270(rotate_270(transform blue to red(rotate_270(input_grid))))",
+                    "rotate_270(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "rotate_270(input_grid)",
+                    "rotate_270(transform blue to red(rotate_270(transform blue to red(rotate_270(input_grid)))))",
+                    "rotate_270(input_grid)",
+                    "rotate_270(input_grid)",
+                    "rotate_270(input_grid)",
+                    "rotate_270(rotate_270(transform blue to red(rotate_270(input_grid))))",
+                    "rotate_270(transform blue to red(input_grid))",
+                    "transform blue to red(rotate_270(flip_horizontal(Diagonal mirror(Diagonal mirror(flip_horizontal(input_grid))))))",
+                    "rotate_180(flip_vertical(Diagonal mirror(rotate_90(input_grid))))",
+                    "transform blue to red(rotate_270(input_grid))"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "6150a2bd.json",
+        "best_program": "rotate_90(vertical mirror(input_grid))",
+        "all_generations": [
+            {
+                "best_fitness": 2,
+                "population": [
+                    "flip_vertical(vertical mirror(upscale(transform blue to red(flip_horizontal(vertical mirror(input_grid))))))",
+                    "identity(flip_vertical(input_grid))",
+                    "identity(flip_vertical(transform blue to red(flip_horizontal(vertical mirror(input_grid)))))",
+                    "flip_horizontal(rotate_90(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid))))))",
+                    "vertical mirror(upscale(input_grid))",
+                    "flip_vertical(vertical mirror(input_grid))",
+                    "transform blue to red(upscale(input_grid))",
+                    "Horizontal mirror(input_grid)",
+                    "vertical mirror(transform blue to red(input_grid))",
+                    "input_grid"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "vertical mirror(upscale(input_grid))",
+                    "flip_vertical(vertical mirror(input_grid))",
+                    "vertical mirror(upscale(input_grid))",
+                    "flip_vertical(vertical mirror(input_grid))",
+                    "flip_horizontal(rotate_90(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid))))))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "rotate_90(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid)))))",
+                    "flip_horizontal(rotate_90(vertical mirror(input_grid)))",
+                    "flip_vertical(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid)))))",
+                    "vertical mirror(transform blue to red(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "vertical mirror(upscale(input_grid))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(rotate_90(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid))))))",
+                    "flip_vertical(flip_vertical(transform blue to red(flip_vertical(rotate_270(vertical mirror(upscale(input_grid)))))))",
+                    "flip_horizontal(input_grid)",
+                    "rotate_90(vertical mirror(input_grid))",
+                    "flip_vertical(flip_vertical(transform blue to red(flip_vertical(rotate_270(input_grid)))))",
+                    "flip_vertical(flip_vertical(vertical mirror(input_grid)))",
+                    "vertical mirror(upscale(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "rotate_90(vertical mirror(input_grid))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(flip_horizontal(vertical mirror(upscale(input_grid))))",
+                    "input_grid",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(vertical mirror(upscale(flip_vertical(rotate_270(input_grid)))))",
+                    "flip_vertical(flip_vertical(transform blue to red(input_grid)))",
+                    "flip_horizontal(rotate_270(input_grid))",
+                    "flip_vertical(flip_vertical(transform blue to red(flip_vertical(input_grid))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_horizontal(vertical mirror(upscale(flip_vertical(rotate_270(input_grid)))))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "input_grid",
+                    "flip_horizontal(vertical mirror(upscale(flip_vertical(rotate_270(flip_horizontal(vertical mirror(upscale(input_grid))))))))",
+                    "flip_horizontal(vertical mirror(input_grid))",
+                    "rotate_90(vertical mirror(upscale(input_grid)))",
+                    "flip_horizontal(vertical mirror(upscale(input_grid)))",
+                    "upscale(input_grid)",
+                    "flip_horizontal(vertical mirror(flip_horizontal(vertical mirror(upscale(flip_vertical(rotate_270(input_grid)))))))",
+                    "vertical mirror(upscale(flip_vertical(rotate_270(input_grid))))"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "67a3c6ac.json",
+        "best_program": "rotate_180(flip_vertical(input_grid))",
+        "all_generations": [
+            {
+                "best_fitness": 3,
+                "population": [
+                    "rotate_180(flip_vertical(rotate_180(flip_vertical(input_grid))))",
+                    "input_grid",
+                    "upscale(flip_vertical(input_grid))",
+                    "rotate_270(vertical mirror(flip_vertical(flip_vertical(input_grid))))",
+                    "upscale(Diagonal mirror(input_grid))",
+                    "Horizontal mirror(upscale(transform blue to red(rotate_270(rotate_180(rotate_270(input_grid))))))",
+                    "flip_vertical(Horizontal mirror(rotate_90(vertical mirror(flip_horizontal(input_grid)))))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "upscale(flip_vertical(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "flip_vertical(Horizontal mirror(rotate_90(vertical mirror(flip_horizontal(flip_vertical(rotate_180(flip_vertical(input_grid))))))))",
+                    "rotate_180(input_grid)",
+                    "flip_vertical(Horizontal mirror(rotate_90(vertical mirror(flip_horizontal(input_grid)))))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "upscale(Diagonal mirror(rotate_180(transform blue to red(input_grid))))",
+                    "rotate_180(input_grid)",
+                    "flip_vertical(Horizontal mirror(rotate_90(vertical mirror(flip_horizontal(flip_vertical(input_grid))))))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "rotate_180(input_grid)",
+                    "rotate_180(input_grid)",
+                    "rotate_180(flip_vertical(flip_vertical(input_grid)))",
+                    "rotate_180(input_grid)",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(input_grid)",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "input_grid",
+                    "rotate_180(flip_vertical(rotate_180(flip_vertical(input_grid))))",
+                    "rotate_180(rotate_180(flip_vertical(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "rotate_180(flip_vertical(rotate_180(flip_vertical(input_grid))))",
+                    "flip_vertical(input_grid)",
+                    "rotate_180(input_grid)",
+                    "flip_vertical(input_grid)",
+                    "flip_vertical(input_grid)",
+                    "rotate_180(rotate_180(input_grid))",
+                    "rotate_180(input_grid)",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(rotate_180(flip_vertical(input_grid))))",
+                    "input_grid",
+                    "flip_vertical(input_grid)",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))",
+                    "rotate_180(flip_vertical(input_grid))"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "68b16354.json",
+        "best_program": "upscale(flip_horizontal(upscale(rotate_270(upscale(input_grid)))))",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "transform blue to red(input_grid)",
+                    "flip_horizontal(rotate_270(upscale(input_grid)))",
+                    "identity(flip_horizontal(identity(transform blue to red(flip_vertical(vertical mirror(input_grid))))))",
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "flip_horizontal(input_grid)",
+                    "upscale(flip_horizontal(transform blue to red(rotate_270(input_grid))))",
+                    "Diagonal mirror(upscale(input_grid))",
+                    "transform blue to red(rotate_270(upscale(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "Diagonal mirror(flip_vertical(vertical mirror(rotate_90(upscale(input_grid)))))",
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "transform blue to red(rotate_270(upscale(input_grid)))",
+                    "upscale(flip_horizontal(upscale(flip_horizontal(input_grid))))",
+                    "transform blue to red(upscale(flip_horizontal(upscale(input_grid))))",
+                    "rotate_270(upscale(input_grid))",
+                    "upscale(flip_horizontal(upscale(upscale(flip_horizontal(upscale(input_grid))))))",
+                    "input_grid",
+                    "upscale(upscale(Horizontal mirror(Horizontal mirror(input_grid))))",
+                    "upscale(flip_horizontal(transform blue to red(rotate_270(identity(transform blue to red(flip_vertical(vertical mirror(input_grid))))))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "Diagonal mirror(flip_vertical(vertical mirror(rotate_90(upscale(input_grid)))))",
+                    "input_grid",
+                    "transform blue to red(rotate_270(upscale(input_grid)))",
+                    "upscale(flip_horizontal(upscale(rotate_270(upscale(input_grid)))))",
+                    "transform blue to red(flip_horizontal(input_grid))",
+                    "upscale(Horizontal mirror(input_grid))",
+                    "input_grid",
+                    "Diagonal mirror(flip_vertical(vertical mirror(rotate_90(upscale(input_grid)))))",
+                    "upscale(flip_horizontal(upscale(flip_horizontal(input_grid))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "upscale(flip_horizontal(upscale(rotate_270(upscale(input_grid)))))",
+                    "input_grid",
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "rotate_270(upscale(input_grid))",
+                    "upscale(input_grid)",
+                    "transform blue to red(rotate_270(input_grid))",
+                    "upscale(flip_horizontal(input_grid))",
+                    "input_grid",
+                    "input_grid",
+                    "transform blue to red(flip_horizontal(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "input_grid",
+                    "transform blue to red(rotate_270(input_grid))",
+                    "upscale(flip_horizontal(upscale(input_grid)))",
+                    "rotate_270(upscale(input_grid))",
+                    "transform blue to red(rotate_270(input_grid))",
+                    "upscale(upscale(input_grid))",
+                    "rotate_270(flip_horizontal(upscale(rotate_270(upscale(input_grid)))))",
+                    "input_grid",
+                    "rotate_270(upscale(upscale(flip_horizontal(upscale(rotate_270(upscale(input_grid)))))))"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "74dd1130.json",
+        "best_program": "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(rotate_90(input_grid))))))",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_vertical(transform blue to red(flip_horizontal(input_grid)))",
+                    "rotate_90(input_grid)",
+                    "rotate_270(rotate_180(input_grid))",
+                    "Horizontal mirror(flip_vertical(transform blue to red(input_grid)))",
+                    "rotate_270(flip_vertical(rotate_270(flip_vertical(transform blue to red(input_grid)))))",
+                    "transform blue to red(input_grid)",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(transform blue to red(input_grid)))))))",
+                    "rotate_90(input_grid)",
+                    "Horizontal mirror(flip_vertical(transform blue to red(flip_horizontal(input_grid))))",
+                    "rotate_180(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 2,
+                "population": [
+                    "rotate_270(flip_vertical(Diagonal mirror(transform blue to red(input_grid))))",
+                    "Horizontal mirror(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(transform blue to red(input_grid))))))",
+                    "rotate_90(input_grid)",
+                    "rotate_90(input_grid)",
+                    "Horizontal mirror(flip_vertical(transform blue to red(flip_horizontal(input_grid))))",
+                    "Horizontal mirror(flip_vertical(transform blue to red(input_grid)))",
+                    "Horizontal mirror(transform blue to red(input_grid))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(transform blue to red(input_grid))))))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(input_grid))))))",
+                    "rotate_180(transform blue to red(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 4,
+                "population": [
+                    "Horizontal mirror(flip_vertical(flip_vertical(flip_vertical(input_grid))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(Diagonal mirror(flip_vertical(transform blue to red(input_grid))))))))",
+                    "rotate_270(transform blue to red(flip_horizontal(rotate_180(rotate_90(input_grid)))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(Horizontal mirror(flip_vertical(transform blue to red(input_grid))))))))",
+                    "flip_vertical(input_grid)",
+                    "Horizontal mirror(Diagonal mirror(flip_vertical(flip_vertical(transform blue to red(input_grid)))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(transform blue to red(input_grid)))))))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(input_grid))))))",
+                    "rotate_180(transform blue to red(input_grid))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(transform blue to red(input_grid))))))))"
+                ]
+            },
+            {
+                "best_fitness": 4,
+                "population": [
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(rotate_90(input_grid))))))",
+                    "rotate_270(transform blue to red(flip_horizontal(rotate_180(flip_vertical(input_grid)))))",
+                    "rotate_270(input_grid)",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(transform blue to red(input_grid))))))))))))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(rotate_180(rotate_90(input_grid))))))",
+                    "rotate_270(transform blue to red(flip_horizontal(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(transform blue to red(input_grid))))))))",
+                    "rotate_270(flip_vertical(rotate_90(rotate_180(identity(flip_horizontal(upscale(input_grid)))))))",
+                    "rotate_270(Diagonal mirror(flip_vertical(input_grid)))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(Diagonal mirror(flip_vertical(transform blue to red(input_grid)))))))))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(flip_vertical(flip_vertical(transform blue to red(input_grid)))))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "rotate_270(Diagonal mirror(flip_vertical(flip_vertical(Diagonal mirror(flip_vertical(Diagonal mirror(Diagonal mirror(flip_vertical(transform blue to red(input_grid))))))))))",
+                    "rotate_270(flip_vertical(input_grid))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(rotate_180(rotate_90(input_grid))))))",
+                    "input_grid",
+                    "rotate_270(Diagonal mirror(flip_vertical(rotate_270(transform blue to red(flip_horizontal(rotate_180(flip_vertical(input_grid))))))))",
+                    "rotate_90(upscale(flip_horizontal(transform blue to red(upscale(input_grid)))))",
+                    "rotate_270(rotate_270(input_grid))",
+                    "transform blue to red(flip_horizontal(rotate_180(flip_vertical(input_grid))))",
+                    "rotate_270(flip_vertical(Diagonal mirror(flip_vertical(rotate_180(rotate_270(input_grid))))))",
+                    "rotate_90(input_grid)"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "9172f3a0.json",
+        "best_program": "flip_vertical(Horizontal mirror(input_grid))",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "input_grid",
+                    "rotate_90(identity(input_grid))",
+                    "flip_vertical(vertical mirror(transform blue to red(rotate_180(vertical mirror(identity(input_grid))))))",
+                    "Horizontal mirror(input_grid)",
+                    "flip_vertical(flip_horizontal(flip_vertical(rotate_90(rotate_180(rotate_90(input_grid))))))",
+                    "upscale(Horizontal mirror(transform blue to red(identity(input_grid))))",
+                    "rotate_90(input_grid)",
+                    "upscale(Horizontal mirror(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "rotate_90(rotate_180(rotate_90(input_grid)))",
+                    "flip_vertical(flip_horizontal(flip_vertical(input_grid)))",
+                    "flip_vertical(flip_horizontal(flip_vertical(rotate_90(rotate_180(rotate_90(input_grid))))))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "upscale(Horizontal mirror(transform blue to red(identity(input_grid))))",
+                    "transform blue to red(identity(input_grid))",
+                    "upscale(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid))))",
+                    "upscale(Horizontal mirror(rotate_90(input_grid)))",
+                    "flip_vertical(flip_horizontal(flip_vertical(rotate_90(rotate_180(input_grid)))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(flip_horizontal(flip_vertical(input_grid)))",
+                    "upscale(Horizontal mirror(transform blue to red(Horizontal mirror(Horizontal mirror(input_grid)))))",
+                    "upscale(Horizontal mirror(upscale(Horizontal mirror(transform blue to red(identity(input_grid))))))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "Horizontal mirror(transform blue to red(identity(input_grid)))",
+                    "upscale(upscale(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid)))))",
+                    "upscale(Horizontal mirror(flip_vertical(Horizontal mirror(rotate_90(input_grid)))))",
+                    "upscale(Horizontal mirror(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(Horizontal mirror(input_grid))",
+                    "flip_vertical(Horizontal mirror(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid)))))",
+                    "upscale(upscale(input_grid))",
+                    "Horizontal mirror(transform blue to red(identity(input_grid)))",
+                    "upscale(Horizontal mirror(upscale(Horizontal mirror(transform blue to red(identity(input_grid))))))",
+                    "flip_vertical(Horizontal mirror(transform blue to red(identity(input_grid))))",
+                    "Horizontal mirror(input_grid)",
+                    "transform blue to red(identity(input_grid))",
+                    "Horizontal mirror(upscale(upscale(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid))))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "flip_vertical(Horizontal mirror(transform blue to red(identity(upscale(upscale(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid)))))))))",
+                    "Horizontal mirror(input_grid)",
+                    "flip_vertical(rotate_90(upscale(input_grid)))",
+                    "flip_vertical(input_grid)",
+                    "Horizontal mirror(Horizontal mirror(input_grid))",
+                    "Horizontal mirror(Diagonal mirror(rotate_270(vertical mirror(transform blue to red(vertical mirror(input_grid))))))",
+                    "rotate_180(flip_vertical(rotate_270(vertical mirror(input_grid))))",
+                    "flip_vertical(Horizontal mirror(transform blue to red(identity(input_grid))))",
+                    "Horizontal mirror(Horizontal mirror(upscale(upscale(Horizontal mirror(flip_vertical(Horizontal mirror(input_grid)))))))",
+                    "input_grid"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "9dfd6313.json",
+        "best_program": "rotate_90(vertical mirror(input_grid))",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "rotate_90(Diagonal mirror(input_grid))",
+                    "Horizontal mirror(vertical mirror(rotate_180(Horizontal mirror(upscale(vertical mirror(input_grid))))))",
+                    "rotate_90(upscale(input_grid))",
+                    "Horizontal mirror(vertical mirror(rotate_180(Horizontal mirror(Diagonal mirror(vertical mirror(input_grid))))))",
+                    "Horizontal mirror(rotate_180(rotate_90(flip_vertical(rotate_90(Diagonal mirror(vertical mirror(input_grid)))))))",
+                    "rotate_90(input_grid)",
+                    "rotate_270(Diagonal mirror(identity(flip_vertical(rotate_90(Diagonal mirror(vertical mirror(input_grid)))))))",
+                    "rotate_270(input_grid)",
+                    "rotate_90(rotate_270(rotate_180(Diagonal mirror(rotate_270(rotate_180(input_grid))))))",
+                    "vertical mirror(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "Horizontal mirror(vertical mirror(rotate_180(Horizontal mirror(Diagonal mirror(identity(flip_vertical(rotate_90(Diagonal mirror(vertical mirror(input_grid))))))))))",
+                    "rotate_270(Diagonal mirror(vertical mirror(input_grid)))",
+                    "vertical mirror(input_grid)",
+                    "rotate_90(input_grid)",
+                    "vertical mirror(input_grid)",
+                    "Horizontal mirror(vertical mirror(rotate_180(Horizontal mirror(input_grid))))",
+                    "rotate_270(Diagonal mirror(identity(flip_vertical(rotate_90(Diagonal mirror(vertical mirror(upscale(vertical mirror(input_grid)))))))))",
+                    "vertical mirror(input_grid)",
+                    "vertical mirror(rotate_180(Horizontal mirror(Diagonal mirror(vertical mirror(input_grid)))))",
+                    "Horizontal mirror(vertical mirror(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "vertical mirror(input_grid)",
+                    "rotate_270(Diagonal mirror(vertical mirror(input_grid)))",
+                    "vertical mirror(input_grid)",
+                    "rotate_90(vertical mirror(input_grid))",
+                    "input_grid",
+                    "vertical mirror(input_grid)",
+                    "vertical mirror(input_grid)",
+                    "vertical mirror(rotate_180(Horizontal mirror(Diagonal mirror(vertical mirror(input_grid)))))",
+                    "Horizontal mirror(Diagonal mirror(vertical mirror(input_grid)))",
+                    "vertical mirror(rotate_180(rotate_90(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "vertical mirror(rotate_180(rotate_90(vertical mirror(input_grid))))",
+                    "rotate_90(input_grid)",
+                    "vertical mirror(rotate_180(rotate_90(rotate_90(input_grid))))",
+                    "vertical mirror(rotate_180(input_grid))",
+                    "rotate_90(vertical mirror(vertical mirror(input_grid)))",
+                    "Horizontal mirror(Diagonal mirror(input_grid))",
+                    "rotate_90(vertical mirror(input_grid))",
+                    "vertical mirror(vertical mirror(rotate_180(rotate_90(input_grid))))",
+                    "rotate_180(rotate_90(input_grid))",
+                    "rotate_90(vertical mirror(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 3,
+                "population": [
+                    "rotate_90(vertical mirror(vertical mirror(input_grid)))",
+                    "rotate_180(rotate_90(input_grid))",
+                    "rotate_90(vertical mirror(vertical mirror(input_grid)))",
+                    "rotate_90(vertical mirror(input_grid))",
+                    "vertical mirror(vertical mirror(input_grid))",
+                    "rotate_90(rotate_180(rotate_90(rotate_90(input_grid))))",
+                    "input_grid",
+                    "rotate_90(vertical mirror(rotate_90(vertical mirror(vertical mirror(input_grid)))))",
+                    "rotate_90(vertical mirror(vertical mirror(rotate_180(Diagonal mirror(flip_horizontal(transform blue to red(flip_horizontal(input_grid))))))))",
+                    "input_grid"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "c59eb873.json",
+        "best_program": "input_grid",
+        "all_generations": [
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "identity(flip_vertical(input_grid))",
+                    "input_grid",
+                    "rotate_270(rotate_180(Diagonal mirror(rotate_180(rotate_270(flip_vertical(input_grid))))))",
+                    "identity(rotate_270(flip_horizontal(upscale(rotate_180(transform blue to red(input_grid))))))",
+                    "input_grid",
+                    "identity(upscale(rotate_180(transform blue to red(input_grid))))",
+                    "rotate_270(flip_horizontal(input_grid))",
+                    "flip_vertical(rotate_180(Diagonal mirror(rotate_180(rotate_270(input_grid)))))",
+                    "rotate_270(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "rotate_270(input_grid)",
+                    "input_grid",
+                    "input_grid",
+                    "rotate_270(input_grid)",
+                    "flip_vertical(input_grid)",
+                    "identity(input_grid)",
+                    "rotate_270(input_grid)",
+                    "input_grid",
+                    "identity(flip_vertical(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "identity(input_grid)",
+                    "flip_vertical(flip_vertical(input_grid))",
+                    "identity(flip_vertical(input_grid))",
+                    "input_grid",
+                    "input_grid",
+                    "rotate_270(flip_vertical(input_grid))",
+                    "input_grid",
+                    "rotate_270(input_grid)",
+                    "input_grid",
+                    "flip_vertical(input_grid)"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid",
+                    "rotate_270(flip_vertical(input_grid))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "transform blue to red(input_grid)",
+                    "input_grid",
+                    "input_grid",
+                    "rotate_270(flip_vertical(input_grid))",
+                    "input_grid",
+                    "input_grid",
+                    "rotate_270(flip_vertical(input_grid))",
+                    "input_grid",
+                    "input_grid",
+                    "input_grid"
+                ]
+            }
+        ]
+    },
+    {
+        "task_filename": "ed36ccf7.json",
+        "best_program": "vertical mirror(input_grid)",
+        "all_generations": [
+            {
+                "best_fitness": 4,
+                "population": [
+                    "transform blue to red(input_grid)",
+                    "upscale(rotate_90(identity(vertical mirror(rotate_270(input_grid)))))",
+                    "Diagonal mirror(upscale(rotate_270(input_grid)))",
+                    "transform blue to red(Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(input_grid))))))",
+                    "input_grid",
+                    "vertical mirror(rotate_270(Diagonal mirror(Horizontal mirror(identity(input_grid)))))",
+                    "Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(input_grid)))))",
+                    "Diagonal mirror(rotate_90(transform blue to red(input_grid)))",
+                    "identity(vertical mirror(rotate_270(input_grid)))",
+                    "Diagonal mirror(Horizontal mirror(identity(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 4,
+                "population": [
+                    "transform blue to red(Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(input_grid))))))",
+                    "Diagonal mirror(rotate_90(identity(input_grid)))",
+                    "vertical mirror(rotate_270(input_grid))",
+                    "Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(input_grid)))))",
+                    "input_grid",
+                    "Diagonal mirror(rotate_90(identity(vertical mirror(input_grid))))",
+                    "rotate_270(input_grid)",
+                    "input_grid",
+                    "identity(vertical mirror(rotate_270(input_grid)))",
+                    "transform blue to red(Diagonal mirror(rotate_90(input_grid)))"
+                ]
+            },
+            {
+                "best_fitness": 4,
+                "population": [
+                    "transform blue to red(Diagonal mirror(rotate_90(rotate_270(input_grid))))",
+                    "transform blue to red(Diagonal mirror(rotate_90(identity(vertical mirror(identity(vertical mirror(rotate_270(input_grid))))))))",
+                    "transform blue to red(Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(Horizontal mirror(input_grid)))))))",
+                    "input_grid",
+                    "identity(vertical mirror(rotate_270(transform blue to red(Diagonal mirror(rotate_90(identity(vertical mirror(rotate_270(input_grid)))))))))",
+                    "Diagonal mirror(rotate_270(input_grid))",
+                    "rotate_90(identity(input_grid))",
+                    "Diagonal mirror(rotate_90(identity(rotate_90(identity(input_grid)))))",
+                    "Diagonal mirror(input_grid)",
+                    "Diagonal mirror(rotate_90(identity(vertical mirror(input_grid))))"
+                ]
+            },
+            {
+                "best_fitness": 0,
+                "population": [
+                    "identity(input_grid)",
+                    "rotate_90(input_grid)",
+                    "Diagonal mirror(rotate_90(identity(rotate_90(identity(input_grid)))))",
+                    "vertical mirror(input_grid)",
+                    "rotate_90(identity(vertical mirror(input_grid)))",
+                    "Diagonal mirror(Diagonal mirror(input_grid))",
+                    "Diagonal mirror(input_grid)",
+                    "rotate_90(identity(rotate_90(identity(input_grid))))",
+                    "Diagonal mirror(identity(input_grid))",
+                    "Diagonal mirror(rotate_90(identity(rotate_90(input_grid))))"
+                ]
+            },
+            {
+                "best_fitness": 1,
+                "population": [
+                    "identity(rotate_90(input_grid))",
+                    "input_grid",
+                    "rotate_90(input_grid)",
+                    "Diagonal mirror(rotate_90(identity(input_grid)))",
+                    "Diagonal mirror(rotate_90(identity(Diagonal mirror(input_grid))))",
+                    "Diagonal mirror(input_grid)",
+                    "vertical mirror(Diagonal mirror(input_grid))",
+                    "Diagonal mirror(rotate_90(vertical mirror(input_grid)))",
+                    "identity(rotate_90(identity(input_grid)))",
+                    "Diagonal mirror(rotate_90(Diagonal mirror(input_grid)))"
+                ]
+            }
+        ]
+    }
+]
