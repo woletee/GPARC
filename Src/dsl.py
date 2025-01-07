@@ -11,4 +11,5 @@ def flip_vertical(input_grid):
   return np.flipup(input_grid)
 def identity(input_grid):
   return input_grid
-  
+def transform_color(input_grid,2):
+  pass
