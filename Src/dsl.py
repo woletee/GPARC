@@ -9,3 +9,6 @@ def flip_horizontal(input_grid):
   return np.fliphr(input_grid)
 def flip_vertical(input_grid):
   return np.flipup(input_grid)
+def identity(input_grid):
+  return input_grid
+  
