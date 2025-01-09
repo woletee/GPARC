@@ -44,5 +44,3 @@ def rotate_270(grid: np.ndarray) -> np.ndarray:
 
 def identity(grid: np.ndarray) -> np.ndarray:
     return grid
-print("Hello")
-print("hello world ")
