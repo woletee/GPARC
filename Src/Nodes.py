@@ -40,6 +40,8 @@ from GP import *
 
 
 
+#the main loop for the GP starts here
+
 def genetic_programming_to_tasks(directory_path):
     tasks = load_tasks_from_directory(directory_path)
     results = []
