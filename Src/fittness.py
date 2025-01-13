@@ -14,3 +14,5 @@ def evaluate_fitness(program, input_output_pairs):
         if np.array_equal(output, expected_output):
             fitness += 1
     return fitness
+
+#how can we modify the fittness function to measure the edit distance 
