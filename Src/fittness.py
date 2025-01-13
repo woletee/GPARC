@@ -16,3 +16,4 @@ def evaluate_fitness(program, input_output_pairs):
     return fitness
 
 #how can we modify the fittness function to measure the edit distance 
+#after that we can differentiate between programs that are closer to the exact solution and those programs that are really from the real soltion 
