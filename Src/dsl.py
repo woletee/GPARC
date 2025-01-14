@@ -44,3 +44,4 @@ def rotate_270(grid: np.ndarray) -> np.ndarray:
 
 def identity(grid: np.ndarray) -> np.ndarray:
     return grid
+#we need to finish settling up and changing the dsls into the numpy array 
