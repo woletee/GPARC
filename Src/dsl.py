@@ -51,3 +51,4 @@ def identity(grid: np.ndarray) -> np.ndarray:
 #to be created more
 #I think now I got the way to generate new arc tasks
 #just use the genetic algorithm for generating random grids and then apply the hodel dsl to get the new input and output pairs based on the transformation dsl
+#import numpy as np
