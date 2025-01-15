@@ -49,3 +49,5 @@ def identity(grid: np.ndarray) -> np.ndarray:
 #to be created more
 #to be created more
 #to be created more
+#I think now I got the way to generate new arc tasks
+
